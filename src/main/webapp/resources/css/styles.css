@@ -1,0 +1,14 @@
+.img-product{
+    height: 200px !important;
+    max-width: 100%;
+}
+.detail-img{
+    max-width: 100%;
+    max-width: 400px;
+    height: 200px !important;
+}
+.detail-info li{
+    font-variant: small-caps;
+    font-size: large;
+    line-height: 30px;
+}
